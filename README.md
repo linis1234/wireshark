@@ -5,7 +5,7 @@ __Packet Analysed__
 ![image](https://github.com/user-attachments/assets/f57ece8c-9dc6-44b7-a8ba-cc980a62e975)  
 
  __Protocol Analysed__  
-  HTTP
+  1.HTTP
   ![image](https://github.com/user-attachments/assets/30e9d385-8722-4823-a91c-178bcb40cca7)
 
   2.TCP
@@ -14,7 +14,7 @@ __Packet Analysed__
   3.DNS
   ![image](https://github.com/user-attachments/assets/c8d08b00-5796-4b18-81e9-f0e03b968252)  
   
-__Exported packed__
+__Exported packed__  
 /home/kali/Documents/packet.pcap
 
 
