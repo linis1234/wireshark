@@ -11,4 +11,8 @@ __Packet Analysed__
  3. 2.TCP
  4. ![image](https://github.com/user-attachments/assets/4305a335-a916-418c-90cf-25d0399b9dd0)
 
+ 5. 3.DNS
+ 6. ![image](https://github.com/user-attachments/assets/c8d08b00-5796-4b18-81e9-f0e03b968252)
+
+
 
